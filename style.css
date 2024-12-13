@@ -1,0 +1,48 @@
+.desktop {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.desktop .overlap-group-wrapper {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1920px;
+  height: 10010px;
+}
+
+.desktop .overlap-group {
+  position: relative;
+  width: 1950px;
+  height: 10041px;
+  background-color: #97cbef;
+}
+
+.desktop .image {
+  width: 1920px;
+  height: 3173px;
+  top: 118px;
+  left: 0;
+  position: absolute;
+  object-fit: cover;
+}
+
+.desktop .img {
+  width: 1920px;
+  height: 3679px;
+  top: 3410px;
+  left: 0;
+  position: absolute;
+  object-fit: cover;
+}
+
+.desktop .image-2 {
+  width: 1890px;
+  height: 2772px;
+  top: 7207px;
+  left: 30px;
+  position: absolute;
+  object-fit: cover;
+}
